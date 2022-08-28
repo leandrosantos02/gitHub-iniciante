@@ -1,3 +1,2 @@
-aula git - iniciante
-school of net
+Curso git Alura
 
