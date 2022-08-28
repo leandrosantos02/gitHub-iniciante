@@ -1,2 +1,4 @@
-Curso Git e GitHub
+Curso Git e GitHub - Módulo 2
+
+Alura
 
